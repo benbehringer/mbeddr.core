@@ -180,3 +180,8 @@ gradle.properties
 **/build/classes
 antlib.xml
 **/code/languages/myDependencies
+
+
+#------------------------------------------------------------
+# ecore transformation tools
+code/languages/com.mbeddr.mpsutil/languages/com.mbeddr.mpsutil.ecoretransofmation.sandbox
